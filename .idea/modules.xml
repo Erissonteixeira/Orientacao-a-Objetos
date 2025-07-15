@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArvoreGeneologica/ArvoreGeneologica.iml" filepath="$PROJECT_DIR$/ArvoreGeneologica/ArvoreGeneologica.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/CursoEmVideo.iml" filepath="$PROJECT_DIR$/.idea/CursoEmVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Heranca/Heranca.iml" filepath="$PROJECT_DIR$/Heranca/Heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/Poo/Poo.iml" filepath="$PROJECT_DIR$/Poo/Poo.iml" />
     </modules>
   </component>
