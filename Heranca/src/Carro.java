@@ -6,8 +6,7 @@ public abstract class Carro extends Automovel {
 
     @Override
     public void Ligar() {
-        super.Ligar();
-        System.out.println("Carro ligado..");
+
     }
 
     protected void ligar() {
